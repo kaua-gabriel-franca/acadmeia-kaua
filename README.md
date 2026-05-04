@@ -1,1 +1,1 @@
-# acadmeia-kaua
+# academia-kaua
